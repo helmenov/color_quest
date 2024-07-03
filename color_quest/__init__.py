@@ -67,7 +67,7 @@ def main(f=answer_rgb):
         rgb_trial = f(trials,dists)
         d = Q.eval(rgb_trial)
         print(f"-> your answer: {rgb_to_hex(rgb_trial)}")
-        print(f"-> error: {d=}')
+        print(f"-> error: {d=}")
         if d < 1:
             break
         else:
