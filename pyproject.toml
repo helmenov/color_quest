@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "color-quest"
-version = "0.1.2"
+version = "0.1.3"
 description = ""
 authors = ["Kotaro Sonoda <kotaro@nagasaki-u.ac.jp>"]
 readme = "README.md"
