@@ -73,7 +73,7 @@ def main(f=answer_rgb):
         else:
             trials.append(rgb_trial)
             dists.append(d)
-    print(f"you tried {n} times!")
+    print(f"you tried {Q.n} times!")
     print(f'truth: {rgb_to_hex(Q.rgb_truth)} {Q.rgb_truth}')
 
 if __name__ == "__main__":
