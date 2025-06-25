@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "color-quest"
-version = "0.1.4"
+version = "0.1.5"
 description = ""
 authors = ["Kotaro Sonoda <kotaro@nagasaki-u.ac.jp>"]
 readme = "README.md"
@@ -8,7 +8,6 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.12"
 matplotlib = "^3.9.0"
-numpy = "<2.0.0"
 
 
 [build-system]
