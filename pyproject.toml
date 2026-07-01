@@ -6,7 +6,7 @@ authors = ["Kotaro Sonoda <kotaro@nagasaki-u.ac.jp>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3"
+python = ">=3, <4"
 matplotlib = "^3"
 
 
