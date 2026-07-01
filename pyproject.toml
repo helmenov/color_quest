@@ -6,8 +6,8 @@ authors = ["Kotaro Sonoda <kotaro@nagasaki-u.ac.jp>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.12"
-matplotlib = "^3.9.0"
+python = "^3"
+matplotlib = "^3"
 
 
 [build-system]
